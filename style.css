@@ -23,6 +23,13 @@ body {
     margin-bottom: 50px;
 }
 
+.subtitulo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    font-size: 30px;
+    color: #0A3871;
+}
 
 .titulo-inicial {
     font-size: 45px;
@@ -110,9 +117,11 @@ body {
 
 .rodape {
     font-family: 'Koulen', cursive;
-    position: absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
     bottom: 0;
-    margin-bottom: 20px;
     width: 100%;
     color: #0A3871;
     text-align: center;

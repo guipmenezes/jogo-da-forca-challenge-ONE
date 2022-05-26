@@ -15,6 +15,11 @@ cujo nome no GitHub é BrouGabri3l, que é levar as palavras adicionadas para o 
 
 <p>Espero que gostem do jogo, qualquer alteração que acharem bacana é só mandar pull request, que eu avaliarei.</p>
 
-<h1 align="center">
+<h1>Tecnologias utilizadas &#128736;</h1>
+<p>&#128992; HTML</p>
+<p>&#128309; CSS</p>
+<p>&#128993; JavaScript</p>
+
+<h1 align="center"> Second Badge
  <img src="img/badge-sprint2.png"></img>
  </h1>

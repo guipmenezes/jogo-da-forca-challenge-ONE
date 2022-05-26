@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo da Forca</title>
+    
+    <!-- CSS do site junto com o reset -->
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="gamestyle.css">
+
+    <!-- Fonte utilizada-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Koulen&display=swap" rel="stylesheet">
+
+    
+</head>
+
+<body>
+    <header class="cabecalho">
+        <div class="logo">
+            <img src="img/logo-alura.svg">
+            <img src="img/Challenge Alura + ONE + GuiMenezes.svg"></h1>
+        </div>
+    </header>
+
+    <main>
+        <div class="jogo-container">
+            <h1 class="titulo">Tente adivinhar qual a palavra da vez!</h1>
+            <div class="jogo-forca">
+                <img id="forca" src="forcaimg/forca.svg">
+                <div id="palavra-jogo" class="espaco-palavra">
+                </div>
+                
+                <div id="novo"></div>
+            </div>
+
+            <section id="letras" class="letras-container">
+                <!--As letras se tornaram desnecessárias?
+                <button>A</button>
+                <button>B</button>
+                <button>C</button>
+                <button>D</button>
+                <button>E</button>
+                <button>F</button>
+                <button>G</button>
+                <button>H</button>
+                <button>I</button>
+                <button>J</button>
+                <button>K</button>
+                <button>L</button>
+                <button>M</button>
+                <button>N</button>
+                <button>O</button>
+                <button>P</button>
+                <button>Q</button>
+                <button>R</button>
+                <button class="correto">S</button>
+                <button class="errado">T</button>
+                <button>U</button>
+                <button>V</button>
+                <button>W</button>
+                <button class="correto">X</button>
+                <button class="errado">Y</button>
+                <button>Z</button>
+                --->
+            </section>
+
+            <div id="palavra-secreta-container">
+                
+            </div>
+
+            <div class="btns">
+                <a href="gamepage.html"><button class="novo-jogo">Novo jogo</button></a>
+                <a href="index.html"><button class="desistir">Desistir</button></a>
+            </div>
+
+        </div>
+
+    </main>
+
+    <script src="script.js"></script>
+</body>

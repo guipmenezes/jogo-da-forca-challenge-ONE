@@ -1,5 +1,3 @@
-# jogo-da-forca-challenge-ONE
-Projeto do segundo Sprint ONE + Alura - Projeto de jogo da forca
  <h1>Jogo da Forca</h1>
  <h2>Segundo Challenge ONE + Alura</h2>
  

@@ -14,3 +14,5 @@ as palavras que eram adicionadas estavam sumindo quando o botão redirecionava p
 cujo nome no GitHub é BrouGabri3l, que é levar as palavras adicionadas para o JSON e depois concatenar elas com o array das palavras originais.</p>
 
 <p>Espero que gostem do jogo, qualquer alteração que acharem bacana é só mandar pull request, que eu avaliarei.</p>
+
+<img src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644516322badge.png?utm_campaign=alura_latam_-_challenge_email_projeto_2_br&utm_medium=email&utm_source=RD+Station"></img>

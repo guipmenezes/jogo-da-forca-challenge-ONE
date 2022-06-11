@@ -128,3 +128,85 @@ body {
     font-size: 20px;
 }
 
+@media(max-width: 760px) {
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-um {
+    width: 20%;
+}
+
+.logo-dois {
+    width: 90%;
+    margin-top: 5%;
+}
+
+.logo-forca {
+    display: flex;
+    width: 90%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.subtitulo {
+    font-size: 25px;
+}
+
+#botao {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.botao-iniciar {
+    width: 250px;
+    font-size: 20px;
+}
+
+.botao-adicionar {
+    width: 250px;
+    font-size: 20px;
+}
+
+
+/* layout pag adicionar palavra*/
+
+.area-texto {
+    display: flex;
+    width: 90%;
+}
+
+.botoes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.salvar {
+    width: 200px;
+    margin: 5%;
+}
+
+.cancelar {
+    width: 200px;
+}
+
+
+.rodape {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 90%;
+    align-items: center;
+    justify-content: flex-end;
+    margin: auto;
+    margin-top: 10%;
+}
+
+}

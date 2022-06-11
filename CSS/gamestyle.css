@@ -138,3 +138,74 @@ span {
     font-size: 25px;
     text-transform: uppercase;
 }
+
+@media(max-width: 760px) {
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-um {
+    width: 20%;
+}
+
+.logo-dois {
+    margin-top: 5%;
+    width: 90%
+}
+
+.titulo {
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+}
+
+#forca {
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.jogo-forca {
+    display: flex;
+    flex-direction: column;
+}
+
+.espaco-palavra {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10%;
+    padding: 5%;
+}
+
+.letras-container {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.novo-jogo {
+    width: 100%;
+}
+
+.desistir {
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+#novo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+}

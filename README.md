@@ -20,6 +20,5 @@ cujo nome no GitHub é BrouGabri3l, que é levar as palavras adicionadas para o 
 <p>&#128309; CSS</p>
 <p>&#128993; JavaScript</p>
 
-<h1 align="center"> Second Badge
- <img src="img/badge-sprint2.png"></img>
- </h1>
+<h1> Second Badge </h1>
+ <img width="400em" height="400em" src="img/badge-sprint2.png"></img>
